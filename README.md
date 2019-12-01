@@ -21,10 +21,13 @@ For example:
 
 arguments can be any two of the following strategies: *random, minimax, alphabeta, human*. 
 
+for example, input two strategies: 'minimax' for player1, 'random' for player2
+
+![example][raw.githubusercontent.com/HanlinGao/Markdownphotos/master/mancalaexample.png]
+
 # Contributors
 Hanlin Gao（ishenrygao@gmail.com）
 
 Yue Shang（shangyue9417@hotmail.com）
 
 Jinhao Zhang（ggbuliton@gmail.com）
-
