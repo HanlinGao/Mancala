@@ -23,7 +23,7 @@ arguments can be any two of the following strategies: *random, minimax, alphabet
 
 for example, input two strategies: 'minimax' for player1, 'random' for player2
 
-![example][raw.githubusercontent.com/HanlinGao/Markdownphotos/master/mancalaexample.png]
+![example](https://raw.githubusercontent.com/HanlinGao/Markdownphotos/master/mancalaexample.png)
 
 # Contributors
 Hanlin Gao（ishenrygao@gmail.com）
